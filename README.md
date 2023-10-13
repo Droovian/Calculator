@@ -1,2 +1,2 @@
 # Calculator
-simple calculator using html css js
+calculator built using object oriented concepts in Javascript
